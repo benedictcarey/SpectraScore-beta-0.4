@@ -1,0 +1,15 @@
+8, delete;
+98, beamTransform;
+97, selectAll;
+101, switch "setAccPref ACC_PREFER_FLAT" "setAccPref ACC_PREFER_SHARP";
+115, setCurrentMeasureStaffToSelectedMeasureStaff;
+116, "execNotePropertiesTransform com.softsynth.jmsl.score.transforms.TieTransform";
+102, switch "overrideStemDirection UP" "overrideStemDirection DOWN";
+121, redo "setRenderAllowed 1";
+122, undo "setRenderAllowed 1";
+117, "transpositionTransform 1.";
+106, "transpositionTransform -1.";
+105, "transpositionTransform 0.5";
+107, "transpositionTransform -0.5";
+111, "transpositionTransform 12.";
+108, "transpositionTransform -12.";
