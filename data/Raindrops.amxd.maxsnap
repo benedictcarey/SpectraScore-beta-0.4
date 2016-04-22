@@ -1,0 +1,29 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "Raindrops.amxd",
+	"origin" : "Raindrops.amxd",
+	"type" : "amxd",
+	"subtype" : "Undefined",
+	"embed" : 1,
+	"snapshot" : 	{
+		"name" : "Raindrops.amxd",
+		"origname" : "C74:/packages/Max for Live/patchers/Max Audio Effect/Raindrops/Raindrops.amxd",
+		"valuedictionary" : 		{
+			"parameter_values" : 			{
+				"attack" : 133.283463,
+				"decay" : 810.787415,
+				"density" : 703.149597,
+				"gain_overdrive" : 0.846457,
+				"max_freq" : 12965.160156,
+				"min_freq" : 6614.842285,
+				"resonance" : 149.913391,
+				"wet/dry" : 79.370079
+			}
+
+		}
+
+	}
+
+}

@@ -135,9 +135,9 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
-					"patching_rect" : [ 89.449951, 140.780396, 65.0, 22.0 ],
+					"patching_rect" : [ 89.449951, 140.780396, 71.0, 22.0 ],
 					"style" : "",
-					"text" : "metro 100",
+					"text" : "metro 1000",
 					"varname" : "clefs[1]"
 				}
 
